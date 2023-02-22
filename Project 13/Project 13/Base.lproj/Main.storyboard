@@ -44,7 +44,6 @@
                                 <rect key="frame" x="101" y="708" width="266" height="30"/>
                                 <connections>
                                     <action selector="intensityChanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="e4e-OH-sdR"/>
-                                    <action selector="save:" destination="BYZ-38-t0r" eventType="valueChanged" id="5ZJ-u4-GsP"/>
                                 </connections>
                             </slider>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9ea-It-Gkg">
